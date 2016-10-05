@@ -1,7 +1,7 @@
 # ol-map
 #### A geographic information system (GIS) encapsulated in Web Component.
 
-ol-map is a...
+ol-map is a little geographic information system based in Web Components, Polymer and Openlayers.
 
 More info: 
  - Web Components: http://webcomponents.org/
