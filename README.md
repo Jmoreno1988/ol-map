@@ -23,13 +23,18 @@ $ git clone https://github.com/Jmoreno1988/ol-map.git
 	<head>
 	    <meta charset="utf-8" />
     	<title> Example ol-map </title>
+    	
     	<!-- The webcomponent.js polyfills enable Web Components in (evergreen) browsers that lack native support. -->
     	<script src="ol-map/lib/webcomponentsjs/webcomponents-lite.min.js"> </script>
+    	
     	<!-- Imports are a way to include and reuse ol-map -->
     	<link rel="import" href="ol-map/ol-map.html">
 	</head>
 	<body>
+
+		<!-- ol-map web component -->
     	<ol-map latitude="-420000" longitude="4800000" zoom="4"></ol-map>
+    	
 	</body>
 	</html>
 ```
